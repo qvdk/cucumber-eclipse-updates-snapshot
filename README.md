@@ -5,7 +5,7 @@ This update site is automatically updated with the latest release of the Cucumbe
 They are 3 ways to install the Cucumber eclipse plugin
 
  * offline installation
- * eclipse marketplace
+ * this eclipse update site
 
 ## From this update site
 
