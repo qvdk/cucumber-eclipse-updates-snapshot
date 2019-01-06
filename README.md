@@ -1,6 +1,8 @@
 # Cucumber Eclipse snapshot updates
 
-This update site is automatically updated with the latest release of the Cucumber Eclipse plugin.
+This update site is automatically updated with the latest *SNAPSHOT* of the Cucumber Eclipse plugin.
+
+If you are searching about a stable release, please use ise the [stable update site](https://qvdk.github.io/cucumber-eclipse-updates) instead of this one.
 
 They are 3 ways to install the Cucumber eclipse plugin
 
